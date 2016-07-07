@@ -1,5 +1,5 @@
 @isTest
-class RandomTest {
+class Random_Test {
     
     // Test the Random.nextUniform() method
     @isTest
